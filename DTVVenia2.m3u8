@@ -43,13 +43,13 @@ http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="Sports",AstroArena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png",ASTRO SUPERSPORT 1
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+http://185.238.0.145:1313/c/g/astrosupersoprt.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png",ASTRO SUPERSPORT 2
-http://vp2p2s.my6868.cc/20415/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://185.238.0.145:1313/c/g/astrosupersoprt2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png",ASTRO SUPERSPORT 3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+http://185.238.0.145:1313/c/g/astrosupersoprt3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png",ASTRO SUPERSPORT 4
-http://vp2p2s.my6868.cc/20417/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://185.238.0.145:1313/c/g/astrosupersoprt4.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png",NBCSN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
 http://mytotaltv.zapto.org:33612/Sofia/Sofia123/263
